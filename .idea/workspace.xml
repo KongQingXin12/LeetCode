@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="986f5663-30c5-438d-8be2-80a286301fd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/动态规划/1025. 除数博弈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/1277. 统计全为 1 的正方形子矩阵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/63. 不同路径 II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/64. 最小路径和.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二分查找/475. 供暖器.py" beforeDir="false" afterPath="$PROJECT_DIR$/二分查找/475. 供暖器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/1277. 统计全为 1 的正方形子矩阵.py" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/1277. 统计全为 1 的正方形子矩阵.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
   </component>
-  <component name="RunManager" selected="Python.1277. 统计全为 1 的正方形子矩阵">
+  <component name="RunManager" selected="Python.63. 不同路径 II">
     <configuration name="有效的字母异位词" type="PythonConfigurationType" factoryName="Python">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,6 +115,9 @@
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -122,28 +125,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/1277. 统计全为 1 的正方形子矩阵.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="257. 二叉树的所有路径" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/257. 二叉树的所有路径.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,6 +191,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二分查找/475. 供暖器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="63. 不同路径 II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/63. 不同路径 II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -418,11 +421,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.63. 不同路径 II" />
         <item itemvalue="Python.1277. 统计全为 1 的正方形子矩阵" />
         <item itemvalue="Python.475. 供暖器" />
         <item itemvalue="Python.392. 判断子序列" />
         <item itemvalue="Python.404. 左叶子之和" />
-        <item itemvalue="Python.257. 二叉树的所有路径" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +479,9 @@
       <workItem from="1577282982088" duration="6000" />
       <workItem from="1577368415421" duration="3303000" />
       <workItem from="1577414055775" duration="1458000" />
-      <workItem from="1577596898593" duration="3240000" />
+      <workItem from="1577596898593" duration="8837000" />
+      <workItem from="1577682767271" duration="114000" />
+      <workItem from="1577682898069" duration="872000" />
     </task>
     <task id="LOCAL-00001" summary="Python 解答">
       <created>1577276190668</created>
@@ -492,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577369727020</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Python 解答">
+      <created>1577624565374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577624565374</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,46 +520,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="115" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575683497479" />
-    <state x="499" y="0" width="1289" height="1040" key="CommitChangelistDialog2" timestamp="1577369726031">
+    <state x="499" y="0" width="1289" height="1040" key="CommitChangelistDialog2" timestamp="1577624562945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="499" y="0" width="1289" height="1040" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577369726031" />
+    <state x="499" y="0" width="1289" height="1040" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577624562945" />
     <state x="1176" y="368" width="564" height="304" key="Github.CreateGistDialog" timestamp="1577275770518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1176" y="368" width="564" height="304" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577275770518" />
-    <state width="892" height="279" key="GridCell.Tab.0.bottom" timestamp="1577624069629">
+    <state width="1148" height="298" key="GridCell.Tab.0.bottom" timestamp="1577683753543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577624069629" />
-    <state width="892" height="279" key="GridCell.Tab.0.center" timestamp="1577624069625">
+    <state width="1148" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577683753543" />
+    <state width="1148" height="298" key="GridCell.Tab.0.center" timestamp="1577683753543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577624069625" />
-    <state width="892" height="279" key="GridCell.Tab.0.left" timestamp="1577624069625">
+    <state width="1148" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577683753543" />
+    <state width="1148" height="298" key="GridCell.Tab.0.left" timestamp="1577683753543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577624069625" />
-    <state width="892" height="279" key="GridCell.Tab.0.right" timestamp="1577624069629">
+    <state width="1148" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577683753543" />
+    <state width="1148" height="298" key="GridCell.Tab.0.right" timestamp="1577683753543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577624069629" />
-    <state width="892" height="279" key="GridCell.Tab.1.bottom" timestamp="1577624069629">
+    <state width="1148" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577683753543" />
+    <state width="1148" height="298" key="GridCell.Tab.1.bottom" timestamp="1577683753543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577624069629" />
-    <state width="892" height="279" key="GridCell.Tab.1.center" timestamp="1577624069629">
+    <state width="1148" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577683753543" />
+    <state width="1148" height="298" key="GridCell.Tab.1.center" timestamp="1577683753543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577624069629" />
-    <state width="892" height="279" key="GridCell.Tab.1.left" timestamp="1577624069629">
+    <state width="1148" height="298" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577683753543" />
+    <state width="1148" height="298" key="GridCell.Tab.1.left" timestamp="1577683753543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577624069629" />
-    <state width="892" height="279" key="GridCell.Tab.1.right" timestamp="1577624069629">
+    <state width="1148" height="298" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577683753543" />
+    <state width="1148" height="298" key="GridCell.Tab.1.right" timestamp="1577683753543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577624069629" />
+    <state width="1148" height="298" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577683753543" />
     <state x="680" y="200" key="IDE.errors.dialog" timestamp="1577193428603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -556,18 +568,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="468" y="0" width="1366" height="1040" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577275830956" />
-    <state x="568" y="137" key="Vcs.Push.Dialog.v2" timestamp="1577369756383">
+    <state x="568" y="137" key="Vcs.Push.Dialog.v2" timestamp="1577624588557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="568" y="137" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577369756383" />
-    <state width="487" height="523" key="XDebugger.FullValuePopup" timestamp="1577170109216">
+    <state x="568" y="137" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577624588557" />
+    <state width="1687" height="523" key="XDebugger.FullValuePopup" timestamp="1577630190858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="487" height="523" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1577170109216" />
-    <state x="567" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1577596904456">
+    <state width="1687" height="523" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1577630190858" />
+    <state x="567" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1577682901120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="567" y="299" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577596904456" />
+    <state x="567" y="299" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577682901120" />
     <state x="1125" y="399" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577369738353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -674,8 +686,18 @@
           <line>5</line>
           <option name="timeStamp" value="186" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/动态规划/63. 不同路径 II.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.cnt" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$1021__.coverage" NAME="1021. 删除最外层的括号 Coverage Results" MODIFIED="1576831880495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -691,6 +713,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$103__.coverage" NAME="103. 二叉树的锯齿形层次遍历 Coverage Results" MODIFIED="1576843359035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$107___II.coverage" NAME="107. 二叉树的层次遍历 II Coverage Results" MODIFIED="1577191297736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/树" />
     <SUITE FILE_PATH="coverage/LeetCode$907__.coverage" NAME="907. 子数组的最小值之和 Coverage Results" MODIFIED="1577168560930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$63___II.coverage" NAME="63. 不同路径 II Coverage Results" MODIFIED="1577683599920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/动态规划" />
     <SUITE FILE_PATH="coverage/LeetCode$735__.coverage" NAME="735. 行星碰撞 Coverage Results" MODIFIED="1576996503878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$100__.coverage" NAME="100. 相同的树 Coverage Results" MODIFIED="1577189374174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/树" />
     <SUITE FILE_PATH="coverage/LeetCode$5283__.coverage" NAME="5283. 二进制链表转整数 Coverage Results" MODIFIED="1576380875423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
