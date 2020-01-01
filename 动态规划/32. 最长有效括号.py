@@ -18,8 +18,6 @@
 #                 stack.append('(')
 #         return max(res)
 
-# !/usr/bin/env Python3.7
-# coding=utf-8
 
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
