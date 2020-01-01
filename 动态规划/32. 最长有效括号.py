@@ -18,6 +18,6 @@ class Solution:
 
 
 if __name__ == '__main__':
-    s = ")()())"
+    s = "(())()()()()()"
     S = Solution()
     print(S.longestValidParentheses(s))
